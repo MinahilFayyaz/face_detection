@@ -1,16 +1,17 @@
 import 'package:face_detection/contact_avatar_picker.dart';
+import 'package:face_detection/removebg_plugin.dart';
 import 'package:flutter/material.dart';
 
-import 'contact_services.dart';
+import 'dropdown_buttons.dart';
 
 
 
 
 void main() async{
   runApp(
-  MaterialApp(
+  const MaterialApp(
     debugShowCheckedModeBanner: false,
-      home : HomePage()
+      home : BgPlugin()
    )
   );
 }

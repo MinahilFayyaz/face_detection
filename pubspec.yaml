@@ -52,6 +52,8 @@ dependencies:
   flutter_phone_direct_caller: ^2.1.1
   flutter_contacts: ^1.1.6
   url_launcher: ^6.1.10
+  dropdown_button2: ^2.1.0
+  remove_background: ^0.0.1
 
 
 
